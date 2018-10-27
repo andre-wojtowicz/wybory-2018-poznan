@@ -5491,7 +5491,7 @@
       "id": "1",
       "type": "Feature",
       "properties": {
-        "nazwa": "VI"
+        "okreg": 6
       }
     },
     {
@@ -10637,7 +10637,7 @@
       "id": "4",
       "type": "Feature",
       "properties": {
-        "nazwa": "V"
+        "okreg": 5
       }
     },
     {
@@ -15263,7 +15263,7 @@
       "id": "5",
       "type": "Feature",
       "properties": {
-        "nazwa": "IV"
+        "okreg": 4
       }
     },
     {
@@ -19917,7 +19917,7 @@
       "id": "6",
       "type": "Feature",
       "properties": {
-        "nazwa": "III"
+        "okreg": 3
       }
     },
     {
@@ -21699,7 +21699,7 @@
       "id": "2",
       "type": "Feature",
       "properties": {
-        "nazwa": "II"
+        "okreg": 2
       }
     },
     {
@@ -22881,7 +22881,7 @@
       "id": "3",
       "type": "Feature",
       "properties": {
-        "nazwa": "I"
+        "okreg": 1
       }
     }
   ],

@@ -115,8 +115,8 @@
       "id": "1",
       "type": "Feature",
       "properties": {
-        "obwod": "54",
-        "okreg": "II"
+        "obwod": 54,
+        "okreg": 2
       }
     },
     {
@@ -282,8 +282,8 @@
       "id": "11",
       "type": "Feature",
       "properties": {
-        "obwod": "7",
-        "okreg": "I"
+        "obwod": 7,
+        "okreg": 1
       }
     },
     {
@@ -441,8 +441,8 @@
       "id": "38",
       "type": "Feature",
       "properties": {
-        "obwod": "16",
-        "okreg": "I"
+        "obwod": 16,
+        "okreg": 1
       }
     },
     {
@@ -728,8 +728,8 @@
       "id": "54",
       "type": "Feature",
       "properties": {
-        "obwod": "103",
-        "okreg": "III"
+        "obwod": 103,
+        "okreg": 3
       }
     },
     {
@@ -1035,8 +1035,8 @@
       "id": "67",
       "type": "Feature",
       "properties": {
-        "obwod": "214",
-        "okreg": "VI"
+        "obwod": 214,
+        "okreg": 6
       }
     },
     {
@@ -1190,8 +1190,8 @@
       "id": "108",
       "type": "Feature",
       "properties": {
-        "obwod": "200",
-        "okreg": "VI"
+        "obwod": 200,
+        "okreg": 6
       }
     },
     {
@@ -1289,8 +1289,8 @@
       "id": "116",
       "type": "Feature",
       "properties": {
-        "obwod": "116",
-        "okreg": "IV"
+        "obwod": 116,
+        "okreg": 4
       }
     },
     {
@@ -1452,8 +1452,8 @@
       "id": "117",
       "type": "Feature",
       "properties": {
-        "obwod": "80",
-        "okreg": "III"
+        "obwod": 80,
+        "okreg": 3
       }
     },
     {
@@ -1651,8 +1651,8 @@
       "id": "118",
       "type": "Feature",
       "properties": {
-        "obwod": "77",
-        "okreg": "III"
+        "obwod": 77,
+        "okreg": 3
       }
     },
     {
@@ -1866,8 +1866,8 @@
       "id": "119",
       "type": "Feature",
       "properties": {
-        "obwod": "181",
-        "okreg": "V"
+        "obwod": 181,
+        "okreg": 5
       }
     },
     {
@@ -1953,8 +1953,8 @@
       "id": "150",
       "type": "Feature",
       "properties": {
-        "obwod": "73",
-        "okreg": "III"
+        "obwod": 73,
+        "okreg": 3
       }
     },
     {
@@ -2104,8 +2104,8 @@
       "id": "151",
       "type": "Feature",
       "properties": {
-        "obwod": "72",
-        "okreg": "III"
+        "obwod": 72,
+        "okreg": 3
       }
     },
     {
@@ -2459,8 +2459,8 @@
       "id": "152",
       "type": "Feature",
       "properties": {
-        "obwod": "82",
-        "okreg": "III"
+        "obwod": 82,
+        "okreg": 3
       }
     },
     {
@@ -2606,8 +2606,8 @@
       "id": "162",
       "type": "Feature",
       "properties": {
-        "obwod": "156",
-        "okreg": "V"
+        "obwod": 156,
+        "okreg": 5
       }
     },
     {
@@ -2773,8 +2773,8 @@
       "id": "163",
       "type": "Feature",
       "properties": {
-        "obwod": "168",
-        "okreg": "V"
+        "obwod": 168,
+        "okreg": 5
       }
     },
     {
@@ -2952,8 +2952,8 @@
       "id": "164",
       "type": "Feature",
       "properties": {
-        "obwod": "166",
-        "okreg": "V"
+        "obwod": 166,
+        "okreg": 5
       }
     },
     {
@@ -3143,8 +3143,8 @@
       "id": "169",
       "type": "Feature",
       "properties": {
-        "obwod": "52",
-        "okreg": "II"
+        "obwod": 52,
+        "okreg": 2
       }
     },
     {
@@ -3254,8 +3254,8 @@
       "id": "170",
       "type": "Feature",
       "properties": {
-        "obwod": "57",
-        "okreg": "II"
+        "obwod": 57,
+        "okreg": 2
       }
     },
     {
@@ -3445,8 +3445,8 @@
       "id": "190",
       "type": "Feature",
       "properties": {
-        "obwod": "158",
-        "okreg": "V"
+        "obwod": 158,
+        "okreg": 5
       }
     },
     {
@@ -3684,8 +3684,8 @@
       "id": "197",
       "type": "Feature",
       "properties": {
-        "obwod": "125",
-        "okreg": "IV"
+        "obwod": 125,
+        "okreg": 4
       }
     },
     {
@@ -3963,8 +3963,8 @@
       "id": "204",
       "type": "Feature",
       "properties": {
-        "obwod": "1",
-        "okreg": "I"
+        "obwod": 1,
+        "okreg": 1
       }
     },
     {
@@ -4046,8 +4046,8 @@
       "id": "205",
       "type": "Feature",
       "properties": {
-        "obwod": "6",
-        "okreg": "I"
+        "obwod": 6,
+        "okreg": 1
       }
     },
     {
@@ -4129,8 +4129,8 @@
       "id": "206",
       "type": "Feature",
       "properties": {
-        "obwod": "9",
-        "okreg": "I"
+        "obwod": 9,
+        "okreg": 1
       }
     },
     {
@@ -4208,8 +4208,8 @@
       "id": "208",
       "type": "Feature",
       "properties": {
-        "obwod": "29",
-        "okreg": "I"
+        "obwod": 29,
+        "okreg": 1
       }
     },
     {
@@ -6411,8 +6411,8 @@
       "id": "210",
       "type": "Feature",
       "properties": {
-        "obwod": "175",
-        "okreg": "V"
+        "obwod": 175,
+        "okreg": 5
       }
     },
     {
@@ -8482,8 +8482,8 @@
       "id": "213",
       "type": "Feature",
       "properties": {
-        "obwod": "190",
-        "okreg": "VI"
+        "obwod": 190,
+        "okreg": 6
       }
     },
     {
@@ -8621,8 +8621,8 @@
       "id": "215",
       "type": "Feature",
       "properties": {
-        "obwod": "199",
-        "okreg": "VI"
+        "obwod": 199,
+        "okreg": 6
       }
     },
     {
@@ -8764,8 +8764,8 @@
       "id": "216",
       "type": "Feature",
       "properties": {
-        "obwod": "204",
-        "okreg": "VI"
+        "obwod": 204,
+        "okreg": 6
       }
     },
     {
@@ -8967,8 +8967,8 @@
       "id": "217",
       "type": "Feature",
       "properties": {
-        "obwod": "161",
-        "okreg": "V"
+        "obwod": 161,
+        "okreg": 5
       }
     },
     {
@@ -9058,8 +9058,8 @@
       "id": "218",
       "type": "Feature",
       "properties": {
-        "obwod": "153",
-        "okreg": "V"
+        "obwod": 153,
+        "okreg": 5
       }
     },
     {
@@ -9213,8 +9213,8 @@
       "id": "219",
       "type": "Feature",
       "properties": {
-        "obwod": "155",
-        "okreg": "V"
+        "obwod": 155,
+        "okreg": 5
       }
     },
     {
@@ -9416,8 +9416,8 @@
       "id": "2",
       "type": "Feature",
       "properties": {
-        "obwod": "51",
-        "okreg": "II"
+        "obwod": 51,
+        "okreg": 2
       }
     },
     {
@@ -10039,8 +10039,8 @@
       "id": "3",
       "type": "Feature",
       "properties": {
-        "obwod": "44",
-        "okreg": "II"
+        "obwod": 44,
+        "okreg": 2
       }
     },
     {
@@ -10182,8 +10182,8 @@
       "id": "4",
       "type": "Feature",
       "properties": {
-        "obwod": "55",
-        "okreg": "II"
+        "obwod": 55,
+        "okreg": 2
       }
     },
     {
@@ -10613,8 +10613,8 @@
       "id": "5",
       "type": "Feature",
       "properties": {
-        "obwod": "68",
-        "okreg": "II"
+        "obwod": 68,
+        "okreg": 2
       }
     },
     {
@@ -10816,8 +10816,8 @@
       "id": "15",
       "type": "Feature",
       "properties": {
-        "obwod": "71",
-        "okreg": "III"
+        "obwod": 71,
+        "okreg": 3
       }
     },
     {
@@ -10983,8 +10983,8 @@
       "id": "75",
       "type": "Feature",
       "properties": {
-        "obwod": "53",
-        "okreg": "II"
+        "obwod": 53,
+        "okreg": 2
       }
     },
     {
@@ -11602,8 +11602,8 @@
       "id": "6",
       "type": "Feature",
       "properties": {
-        "obwod": "183",
-        "okreg": "V"
+        "obwod": 183,
+        "okreg": 5
       }
     },
     {
@@ -11877,8 +11877,8 @@
       "id": "7",
       "type": "Feature",
       "properties": {
-        "obwod": "127",
-        "okreg": "IV"
+        "obwod": 127,
+        "okreg": 4
       }
     },
     {
@@ -12812,8 +12812,8 @@
       "id": "8",
       "type": "Feature",
       "properties": {
-        "obwod": "129",
-        "okreg": "IV"
+        "obwod": 129,
+        "okreg": 4
       }
     },
     {
@@ -13347,8 +13347,8 @@
       "id": "9",
       "type": "Feature",
       "properties": {
-        "obwod": "134",
-        "okreg": "IV"
+        "obwod": 134,
+        "okreg": 4
       }
     },
     {
@@ -13898,8 +13898,8 @@
       "id": "10",
       "type": "Feature",
       "properties": {
-        "obwod": "133",
-        "okreg": "IV"
+        "obwod": 133,
+        "okreg": 4
       }
     },
     {
@@ -14001,8 +14001,8 @@
       "id": "12",
       "type": "Feature",
       "properties": {
-        "obwod": "11",
-        "okreg": "I"
+        "obwod": 11,
+        "okreg": 1
       }
     },
     {
@@ -14280,8 +14280,8 @@
       "id": "13",
       "type": "Feature",
       "properties": {
-        "obwod": "5",
-        "okreg": "I"
+        "obwod": 5,
+        "okreg": 1
       }
     },
     {
@@ -14479,8 +14479,8 @@
       "id": "14",
       "type": "Feature",
       "properties": {
-        "obwod": "2",
-        "okreg": "I"
+        "obwod": 2,
+        "okreg": 1
       }
     },
     {
@@ -14558,8 +14558,8 @@
       "id": "179",
       "type": "Feature",
       "properties": {
-        "obwod": "4",
-        "okreg": "I"
+        "obwod": 4,
+        "okreg": 1
       }
     },
     {
@@ -14769,8 +14769,8 @@
       "id": "16",
       "type": "Feature",
       "properties": {
-        "obwod": "79",
-        "okreg": "III"
+        "obwod": 79,
+        "okreg": 3
       }
     },
     {
@@ -15200,8 +15200,8 @@
       "id": "17",
       "type": "Feature",
       "properties": {
-        "obwod": "178",
-        "okreg": "V"
+        "obwod": 178,
+        "okreg": 5
       }
     },
     {
@@ -15363,8 +15363,8 @@
       "id": "18",
       "type": "Feature",
       "properties": {
-        "obwod": "107",
-        "okreg": "IV"
+        "obwod": 107,
+        "okreg": 4
       }
     },
     {
@@ -15542,8 +15542,8 @@
       "id": "19",
       "type": "Feature",
       "properties": {
-        "obwod": "101",
-        "okreg": "III"
+        "obwod": 101,
+        "okreg": 3
       }
     },
     {
@@ -15725,8 +15725,8 @@
       "id": "20",
       "type": "Feature",
       "properties": {
-        "obwod": "102",
-        "okreg": "III"
+        "obwod": 102,
+        "okreg": 3
       }
     },
     {
@@ -16096,8 +16096,8 @@
       "id": "25",
       "type": "Feature",
       "properties": {
-        "obwod": "173",
-        "okreg": "V"
+        "obwod": 173,
+        "okreg": 5
       }
     },
     {
@@ -16171,8 +16171,8 @@
       "id": "180",
       "type": "Feature",
       "properties": {
-        "obwod": "35",
-        "okreg": "I"
+        "obwod": 35,
+        "okreg": 1
       }
     },
     {
@@ -17234,8 +17234,8 @@
       "id": "21",
       "type": "Feature",
       "properties": {
-        "obwod": "105",
-        "okreg": "III"
+        "obwod": 105,
+        "okreg": 3
       }
     },
     {
@@ -17569,8 +17569,8 @@
       "id": "22",
       "type": "Feature",
       "properties": {
-        "obwod": "162",
-        "okreg": "V"
+        "obwod": 162,
+        "okreg": 5
       }
     },
     {
@@ -17876,8 +17876,8 @@
       "id": "23",
       "type": "Feature",
       "properties": {
-        "obwod": "160",
-        "okreg": "V"
+        "obwod": 160,
+        "okreg": 5
       }
     },
     {
@@ -18031,8 +18031,8 @@
       "id": "24",
       "type": "Feature",
       "properties": {
-        "obwod": "154",
-        "okreg": "V"
+        "obwod": 154,
+        "okreg": 5
       }
     },
     {
@@ -18294,8 +18294,8 @@
       "id": "26",
       "type": "Feature",
       "properties": {
-        "obwod": "167",
-        "okreg": "V"
+        "obwod": 167,
+        "okreg": 5
       }
     },
     {
@@ -18489,8 +18489,8 @@
       "id": "27",
       "type": "Feature",
       "properties": {
-        "obwod": "170",
-        "okreg": "V"
+        "obwod": 170,
+        "okreg": 5
       }
     },
     {
@@ -18684,8 +18684,8 @@
       "id": "28",
       "type": "Feature",
       "properties": {
-        "obwod": "109",
-        "okreg": "IV"
+        "obwod": 109,
+        "okreg": 4
       }
     },
     {
@@ -18943,8 +18943,8 @@
       "id": "29",
       "type": "Feature",
       "properties": {
-        "obwod": "122",
-        "okreg": "IV"
+        "obwod": 122,
+        "okreg": 4
       }
     },
     {
@@ -19170,8 +19170,8 @@
       "id": "30",
       "type": "Feature",
       "properties": {
-        "obwod": "112",
-        "okreg": "IV"
+        "obwod": 112,
+        "okreg": 4
       }
     },
     {
@@ -19337,8 +19337,8 @@
       "id": "31",
       "type": "Feature",
       "properties": {
-        "obwod": "110",
-        "okreg": "IV"
+        "obwod": 110,
+        "okreg": 4
       }
     },
     {
@@ -19616,8 +19616,8 @@
       "id": "32",
       "type": "Feature",
       "properties": {
-        "obwod": "14",
-        "okreg": "I"
+        "obwod": 14,
+        "okreg": 1
       }
     },
     {
@@ -20279,8 +20279,8 @@
       "id": "33",
       "type": "Feature",
       "properties": {
-        "obwod": "147",
-        "okreg": "V"
+        "obwod": 147,
+        "okreg": 5
       }
     },
     {
@@ -20450,8 +20450,8 @@
       "id": "34",
       "type": "Feature",
       "properties": {
-        "obwod": "151",
-        "okreg": "V"
+        "obwod": 151,
+        "okreg": 5
       }
     },
     {
@@ -20805,8 +20805,8 @@
       "id": "35",
       "type": "Feature",
       "properties": {
-        "obwod": "81",
-        "okreg": "III"
+        "obwod": 81,
+        "okreg": 3
       }
     },
     {
@@ -21012,8 +21012,8 @@
       "id": "36",
       "type": "Feature",
       "properties": {
-        "obwod": "15",
-        "okreg": "I"
+        "obwod": 15,
+        "okreg": 1
       }
     },
     {
@@ -21115,8 +21115,8 @@
       "id": "37",
       "type": "Feature",
       "properties": {
-        "obwod": "23",
-        "okreg": "I"
+        "obwod": 23,
+        "okreg": 1
       }
     },
     {
@@ -21338,8 +21338,8 @@
       "id": "42",
       "type": "Feature",
       "properties": {
-        "obwod": "47",
-        "okreg": "II"
+        "obwod": 47,
+        "okreg": 2
       }
     },
     {
@@ -22333,8 +22333,8 @@
       "id": "39",
       "type": "Feature",
       "properties": {
-        "obwod": "42",
-        "okreg": "II"
+        "obwod": 42,
+        "okreg": 2
       }
     },
     {
@@ -22756,8 +22756,8 @@
       "id": "40",
       "type": "Feature",
       "properties": {
-        "obwod": "50",
-        "okreg": "II"
+        "obwod": 50,
+        "okreg": 2
       }
     },
     {
@@ -23175,8 +23175,8 @@
       "id": "41",
       "type": "Feature",
       "properties": {
-        "obwod": "48",
-        "okreg": "II"
+        "obwod": 48,
+        "okreg": 2
       }
     },
     {
@@ -23366,8 +23366,8 @@
       "id": "43",
       "type": "Feature",
       "properties": {
-        "obwod": "148",
-        "okreg": "V"
+        "obwod": 148,
+        "okreg": 5
       }
     },
     {
@@ -23677,8 +23677,8 @@
       "id": "44",
       "type": "Feature",
       "properties": {
-        "obwod": "46",
-        "okreg": "II"
+        "obwod": 46,
+        "okreg": 2
       }
     },
     {
@@ -23928,8 +23928,8 @@
       "id": "45",
       "type": "Feature",
       "properties": {
-        "obwod": "40",
-        "okreg": "II"
+        "obwod": 40,
+        "okreg": 2
       }
     },
     {
@@ -24191,8 +24191,8 @@
       "id": "46",
       "type": "Feature",
       "properties": {
-        "obwod": "45",
-        "okreg": "II"
+        "obwod": 45,
+        "okreg": 2
       }
     },
     {
@@ -24478,8 +24478,8 @@
       "id": "47",
       "type": "Feature",
       "properties": {
-        "obwod": "25",
-        "okreg": "I"
+        "obwod": 25,
+        "okreg": 1
       }
     },
     {
@@ -24849,8 +24849,8 @@
       "id": "48",
       "type": "Feature",
       "properties": {
-        "obwod": "17",
-        "okreg": "I"
+        "obwod": 17,
+        "okreg": 1
       }
     },
     {
@@ -25584,8 +25584,8 @@
       "id": "49",
       "type": "Feature",
       "properties": {
-        "obwod": "146",
-        "okreg": "IV"
+        "obwod": 146,
+        "okreg": 4
       }
     },
     {
@@ -25855,8 +25855,8 @@
       "id": "50",
       "type": "Feature",
       "properties": {
-        "obwod": "36",
-        "okreg": "I"
+        "obwod": 36,
+        "okreg": 1
       }
     },
     {
@@ -26222,8 +26222,8 @@
       "id": "51",
       "type": "Feature",
       "properties": {
-        "obwod": "142",
-        "okreg": "IV"
+        "obwod": 142,
+        "okreg": 4
       }
     },
     {
@@ -26709,8 +26709,8 @@
       "id": "52",
       "type": "Feature",
       "properties": {
-        "obwod": "135",
-        "okreg": "IV"
+        "obwod": 135,
+        "okreg": 4
       }
     },
     {
@@ -27068,8 +27068,8 @@
       "id": "53",
       "type": "Feature",
       "properties": {
-        "obwod": "85",
-        "okreg": "III"
+        "obwod": 85,
+        "okreg": 3
       }
     },
     {
@@ -27727,8 +27727,8 @@
       "id": "55",
       "type": "Feature",
       "properties": {
-        "obwod": "86",
-        "okreg": "III"
+        "obwod": 86,
+        "okreg": 3
       }
     },
     {
@@ -28154,8 +28154,8 @@
       "id": "56",
       "type": "Feature",
       "properties": {
-        "obwod": "98",
-        "okreg": "III"
+        "obwod": 98,
+        "okreg": 3
       }
     },
     {
@@ -28517,8 +28517,8 @@
       "id": "57",
       "type": "Feature",
       "properties": {
-        "obwod": "104",
-        "okreg": "III"
+        "obwod": 104,
+        "okreg": 3
       }
     },
     {
@@ -28736,8 +28736,8 @@
       "id": "58",
       "type": "Feature",
       "properties": {
-        "obwod": "95",
-        "okreg": "III"
+        "obwod": 95,
+        "okreg": 3
       }
     },
     {
@@ -29571,8 +29571,8 @@
       "id": "59",
       "type": "Feature",
       "properties": {
-        "obwod": "91",
-        "okreg": "III"
+        "obwod": 91,
+        "okreg": 3
       }
     },
     {
@@ -29714,8 +29714,8 @@
       "id": "62",
       "type": "Feature",
       "properties": {
-        "obwod": "111",
-        "okreg": "IV"
+        "obwod": 111,
+        "okreg": 4
       }
     },
     {
@@ -30085,8 +30085,8 @@
       "id": "63",
       "type": "Feature",
       "properties": {
-        "obwod": "108",
-        "okreg": "IV"
+        "obwod": 108,
+        "okreg": 4
       }
     },
     {
@@ -30296,8 +30296,8 @@
       "id": "76",
       "type": "Feature",
       "properties": {
-        "obwod": "67",
-        "okreg": "II"
+        "obwod": 67,
+        "okreg": 2
       }
     },
     {
@@ -31287,8 +31287,8 @@
       "id": "60",
       "type": "Feature",
       "properties": {
-        "obwod": "131",
-        "okreg": "IV"
+        "obwod": 131,
+        "okreg": 4
       }
     },
     {
@@ -32250,8 +32250,8 @@
       "id": "61",
       "type": "Feature",
       "properties": {
-        "obwod": "128",
-        "okreg": "IV"
+        "obwod": 128,
+        "okreg": 4
       }
     },
     {
@@ -32549,8 +32549,8 @@
       "id": "64",
       "type": "Feature",
       "properties": {
-        "obwod": "83",
-        "okreg": "III"
+        "obwod": 83,
+        "okreg": 3
       }
     },
     {
@@ -32928,8 +32928,8 @@
       "id": "65",
       "type": "Feature",
       "properties": {
-        "obwod": "88",
-        "okreg": "III"
+        "obwod": 88,
+        "okreg": 3
       }
     },
     {
@@ -33247,8 +33247,8 @@
       "id": "69",
       "type": "Feature",
       "properties": {
-        "obwod": "216",
-        "okreg": "VI"
+        "obwod": 216,
+        "okreg": 6
       }
     },
     {
@@ -33666,8 +33666,8 @@
       "id": "70",
       "type": "Feature",
       "properties": {
-        "obwod": "219",
-        "okreg": "VI"
+        "obwod": 219,
+        "okreg": 6
       }
     },
     {
@@ -33829,8 +33829,8 @@
       "id": "141",
       "type": "Feature",
       "properties": {
-        "obwod": "56",
-        "okreg": "II"
+        "obwod": 56,
+        "okreg": 2
       }
     },
     {
@@ -33932,8 +33932,8 @@
       "id": "195",
       "type": "Feature",
       "properties": {
-        "obwod": "119",
-        "okreg": "IV"
+        "obwod": 119,
+        "okreg": 4
       }
     },
     {
@@ -35515,8 +35515,8 @@
       "id": "66",
       "type": "Feature",
       "properties": {
-        "obwod": "93",
-        "okreg": "III"
+        "obwod": 93,
+        "okreg": 3
       }
     },
     {
@@ -35882,8 +35882,8 @@
       "id": "68",
       "type": "Feature",
       "properties": {
-        "obwod": "106",
-        "okreg": "III"
+        "obwod": 106,
+        "okreg": 3
       }
     },
     {
@@ -36317,8 +36317,8 @@
       "id": "71",
       "type": "Feature",
       "properties": {
-        "obwod": "218",
-        "okreg": "VI"
+        "obwod": 218,
+        "okreg": 6
       }
     },
     {
@@ -36956,8 +36956,8 @@
       "id": "72",
       "type": "Feature",
       "properties": {
-        "obwod": "221",
-        "okreg": "VI"
+        "obwod": 221,
+        "okreg": 6
       }
     },
     {
@@ -37475,8 +37475,8 @@
       "id": "73",
       "type": "Feature",
       "properties": {
-        "obwod": "222",
-        "okreg": "VI"
+        "obwod": 222,
+        "okreg": 6
       }
     },
     {
@@ -37778,8 +37778,8 @@
       "id": "74",
       "type": "Feature",
       "properties": {
-        "obwod": "70",
-        "okreg": "II"
+        "obwod": 70,
+        "okreg": 2
       }
     },
     {
@@ -38193,8 +38193,8 @@
       "id": "77",
       "type": "Feature",
       "properties": {
-        "obwod": "69",
-        "okreg": "II"
+        "obwod": 69,
+        "okreg": 2
       }
     },
     {
@@ -38576,8 +38576,8 @@
       "id": "78",
       "type": "Feature",
       "properties": {
-        "obwod": "140",
-        "okreg": "IV"
+        "obwod": 140,
+        "okreg": 4
       }
     },
     {
@@ -39055,8 +39055,8 @@
       "id": "79",
       "type": "Feature",
       "properties": {
-        "obwod": "143",
-        "okreg": "IV"
+        "obwod": 143,
+        "okreg": 4
       }
     },
     {
@@ -39498,8 +39498,8 @@
       "id": "85",
       "type": "Feature",
       "properties": {
-        "obwod": "192",
-        "okreg": "VI"
+        "obwod": 192,
+        "okreg": 6
       }
     },
     {
@@ -40173,8 +40173,8 @@
       "id": "80",
       "type": "Feature",
       "properties": {
-        "obwod": "177",
-        "okreg": "V"
+        "obwod": 177,
+        "okreg": 5
       }
     },
     {
@@ -40476,8 +40476,8 @@
       "id": "81",
       "type": "Feature",
       "properties": {
-        "obwod": "202",
-        "okreg": "VI"
+        "obwod": 202,
+        "okreg": 6
       }
     },
     {
@@ -40631,8 +40631,8 @@
       "id": "82",
       "type": "Feature",
       "properties": {
-        "obwod": "210",
-        "okreg": "VI"
+        "obwod": 210,
+        "okreg": 6
       }
     },
     {
@@ -40830,8 +40830,8 @@
       "id": "83",
       "type": "Feature",
       "properties": {
-        "obwod": "213",
-        "okreg": "VI"
+        "obwod": 213,
+        "okreg": 6
       }
     },
     {
@@ -41201,8 +41201,8 @@
       "id": "84",
       "type": "Feature",
       "properties": {
-        "obwod": "197",
-        "okreg": "VI"
+        "obwod": 197,
+        "okreg": 6
       }
     },
     {
@@ -41860,8 +41860,8 @@
       "id": "86",
       "type": "Feature",
       "properties": {
-        "obwod": "191",
-        "okreg": "VI"
+        "obwod": 191,
+        "okreg": 6
       }
     },
     {
@@ -42219,8 +42219,8 @@
       "id": "87",
       "type": "Feature",
       "properties": {
-        "obwod": "172",
-        "okreg": "V"
+        "obwod": 172,
+        "okreg": 5
       }
     },
     {
@@ -42482,8 +42482,8 @@
       "id": "88",
       "type": "Feature",
       "properties": {
-        "obwod": "176",
-        "okreg": "V"
+        "obwod": 176,
+        "okreg": 5
       }
     },
     {
@@ -42817,8 +42817,8 @@
       "id": "89",
       "type": "Feature",
       "properties": {
-        "obwod": "182",
-        "okreg": "V"
+        "obwod": 182,
+        "okreg": 5
       }
     },
     {
@@ -42924,8 +42924,8 @@
       "id": "122",
       "type": "Feature",
       "properties": {
-        "obwod": "113",
-        "okreg": "IV"
+        "obwod": 113,
+        "okreg": 4
       }
     },
     {
@@ -43595,8 +43595,8 @@
       "id": "90",
       "type": "Feature",
       "properties": {
-        "obwod": "174",
-        "okreg": "V"
+        "obwod": 174,
+        "okreg": 5
       }
     },
     {
@@ -43746,8 +43746,8 @@
       "id": "91",
       "type": "Feature",
       "properties": {
-        "obwod": "99",
-        "okreg": "III"
+        "obwod": 99,
+        "okreg": 3
       }
     },
     {
@@ -43869,8 +43869,8 @@
       "id": "92",
       "type": "Feature",
       "properties": {
-        "obwod": "66",
-        "okreg": "II"
+        "obwod": 66,
+        "okreg": 2
       }
     },
     {
@@ -43972,8 +43972,8 @@
       "id": "93",
       "type": "Feature",
       "properties": {
-        "obwod": "60",
-        "okreg": "II"
+        "obwod": 60,
+        "okreg": 2
       }
     },
     {
@@ -44099,8 +44099,8 @@
       "id": "94",
       "type": "Feature",
       "properties": {
-        "obwod": "49",
-        "okreg": "II"
+        "obwod": 49,
+        "okreg": 2
       }
     },
     {
@@ -44250,8 +44250,8 @@
       "id": "95",
       "type": "Feature",
       "properties": {
-        "obwod": "169",
-        "okreg": "V"
+        "obwod": 169,
+        "okreg": 5
       }
     },
     {
@@ -44377,8 +44377,8 @@
       "id": "96",
       "type": "Feature",
       "properties": {
-        "obwod": "152",
-        "okreg": "V"
+        "obwod": 152,
+        "okreg": 5
       }
     },
     {
@@ -44556,8 +44556,8 @@
       "id": "123",
       "type": "Feature",
       "properties": {
-        "obwod": "74",
-        "okreg": "III"
+        "obwod": 74,
+        "okreg": 3
       }
     },
     {
@@ -45191,8 +45191,8 @@
       "id": "97",
       "type": "Feature",
       "properties": {
-        "obwod": "171",
-        "okreg": "V"
+        "obwod": 171,
+        "okreg": 5
       }
     },
     {
@@ -45406,8 +45406,8 @@
       "id": "98",
       "type": "Feature",
       "properties": {
-        "obwod": "163",
-        "okreg": "V"
+        "obwod": 163,
+        "okreg": 5
       }
     },
     {
@@ -45701,8 +45701,8 @@
       "id": "99",
       "type": "Feature",
       "properties": {
-        "obwod": "195",
-        "okreg": "VI"
+        "obwod": 195,
+        "okreg": 6
       }
     },
     {
@@ -46140,8 +46140,8 @@
       "id": "100",
       "type": "Feature",
       "properties": {
-        "obwod": "196",
-        "okreg": "VI"
+        "obwod": 196,
+        "okreg": 6
       }
     },
     {
@@ -46355,8 +46355,8 @@
       "id": "142",
       "type": "Feature",
       "properties": {
-        "obwod": "28",
-        "okreg": "I"
+        "obwod": 28,
+        "okreg": 1
       }
     },
     {
@@ -46758,8 +46758,8 @@
       "id": "101",
       "type": "Feature",
       "properties": {
-        "obwod": "184",
-        "okreg": "V"
+        "obwod": 184,
+        "okreg": 5
       }
     },
     {
@@ -46909,8 +46909,8 @@
       "id": "102",
       "type": "Feature",
       "properties": {
-        "obwod": "208",
-        "okreg": "VI"
+        "obwod": 208,
+        "okreg": 6
       }
     },
     {
@@ -47412,8 +47412,8 @@
       "id": "103",
       "type": "Feature",
       "properties": {
-        "obwod": "193",
-        "okreg": "VI"
+        "obwod": 193,
+        "okreg": 6
       }
     },
     {
@@ -47583,8 +47583,8 @@
       "id": "104",
       "type": "Feature",
       "properties": {
-        "obwod": "206",
-        "okreg": "VI"
+        "obwod": 206,
+        "okreg": 6
       }
     },
     {
@@ -48202,8 +48202,8 @@
       "id": "105",
       "type": "Feature",
       "properties": {
-        "obwod": "179",
-        "okreg": "V"
+        "obwod": 179,
+        "okreg": 5
       }
     },
     {
@@ -48877,8 +48877,8 @@
       "id": "106",
       "type": "Feature",
       "properties": {
-        "obwod": "187",
-        "okreg": "VI"
+        "obwod": 187,
+        "okreg": 6
       }
     },
     {
@@ -49648,8 +49648,8 @@
       "id": "107",
       "type": "Feature",
       "properties": {
-        "obwod": "194",
-        "okreg": "VI"
+        "obwod": 194,
+        "okreg": 6
       }
     },
     {
@@ -49911,8 +49911,8 @@
       "id": "124",
       "type": "Feature",
       "properties": {
-        "obwod": "76",
-        "okreg": "III"
+        "obwod": 76,
+        "okreg": 3
       }
     },
     {
@@ -50010,8 +50010,8 @@
       "id": "143",
       "type": "Feature",
       "properties": {
-        "obwod": "18",
-        "okreg": "I"
+        "obwod": 18,
+        "okreg": 1
       }
     },
     {
@@ -50729,8 +50729,8 @@
       "id": "109",
       "type": "Feature",
       "properties": {
-        "obwod": "188",
-        "okreg": "VI"
+        "obwod": 188,
+        "okreg": 6
       }
     },
     {
@@ -50860,8 +50860,8 @@
       "id": "110",
       "type": "Feature",
       "properties": {
-        "obwod": "10",
-        "okreg": "I"
+        "obwod": 10,
+        "okreg": 1
       }
     },
     {
@@ -50935,8 +50935,8 @@
       "id": "111",
       "type": "Feature",
       "properties": {
-        "obwod": "3",
-        "okreg": "I"
+        "obwod": 3,
+        "okreg": 1
       }
     },
     {
@@ -51138,8 +51138,8 @@
       "id": "112",
       "type": "Feature",
       "properties": {
-        "obwod": "205",
-        "okreg": "VI"
+        "obwod": 205,
+        "okreg": 6
       }
     },
     {
@@ -51337,8 +51337,8 @@
       "id": "113",
       "type": "Feature",
       "properties": {
-        "obwod": "203",
-        "okreg": "VI"
+        "obwod": 203,
+        "okreg": 6
       }
     },
     {
@@ -51476,8 +51476,8 @@
       "id": "114",
       "type": "Feature",
       "properties": {
-        "obwod": "165",
-        "okreg": "V"
+        "obwod": 165,
+        "okreg": 5
       }
     },
     {
@@ -51663,8 +51663,8 @@
       "id": "115",
       "type": "Feature",
       "properties": {
-        "obwod": "126",
-        "okreg": "IV"
+        "obwod": 126,
+        "okreg": 4
       }
     },
     {
@@ -53166,8 +53166,8 @@
       "id": "120",
       "type": "Feature",
       "properties": {
-        "obwod": "94",
-        "okreg": "III"
+        "obwod": 94,
+        "okreg": 3
       }
     },
     {
@@ -53557,8 +53557,8 @@
       "id": "121",
       "type": "Feature",
       "properties": {
-        "obwod": "89",
-        "okreg": "III"
+        "obwod": 89,
+        "okreg": 3
       }
     },
     {
@@ -53964,8 +53964,8 @@
       "id": "125",
       "type": "Feature",
       "properties": {
-        "obwod": "90",
-        "okreg": "III"
+        "obwod": 90,
+        "okreg": 3
       }
     },
     {
@@ -54107,8 +54107,8 @@
       "id": "126",
       "type": "Feature",
       "properties": {
-        "obwod": "220",
-        "okreg": "VI"
+        "obwod": 220,
+        "okreg": 6
       }
     },
     {
@@ -54270,8 +54270,8 @@
       "id": "127",
       "type": "Feature",
       "properties": {
-        "obwod": "217",
-        "okreg": "VI"
+        "obwod": 217,
+        "okreg": 6
       }
     },
     {
@@ -54389,8 +54389,8 @@
       "id": "128",
       "type": "Feature",
       "properties": {
-        "obwod": "215",
-        "okreg": "VI"
+        "obwod": 215,
+        "okreg": 6
       }
     },
     {
@@ -54480,8 +54480,8 @@
       "id": "129",
       "type": "Feature",
       "properties": {
-        "obwod": "65",
-        "okreg": "II"
+        "obwod": 65,
+        "okreg": 2
       }
     },
     {
@@ -54595,8 +54595,8 @@
       "id": "130",
       "type": "Feature",
       "properties": {
-        "obwod": "114",
-        "okreg": "IV"
+        "obwod": 114,
+        "okreg": 4
       }
     },
     {
@@ -54838,8 +54838,8 @@
       "id": "131",
       "type": "Feature",
       "properties": {
-        "obwod": "96",
-        "okreg": "III"
+        "obwod": 96,
+        "okreg": 3
       }
     },
     {
@@ -54989,8 +54989,8 @@
       "id": "140",
       "type": "Feature",
       "properties": {
-        "obwod": "58",
-        "okreg": "II"
+        "obwod": 58,
+        "okreg": 2
       }
     },
     {
@@ -55476,8 +55476,8 @@
       "id": "132",
       "type": "Feature",
       "properties": {
-        "obwod": "92",
-        "okreg": "III"
+        "obwod": 92,
+        "okreg": 3
       }
     },
     {
@@ -55619,8 +55619,8 @@
       "id": "133",
       "type": "Feature",
       "properties": {
-        "obwod": "59",
-        "okreg": "II"
+        "obwod": 59,
+        "okreg": 2
       }
     },
     {
@@ -55714,8 +55714,8 @@
       "id": "134",
       "type": "Feature",
       "properties": {
-        "obwod": "62",
-        "okreg": "II"
+        "obwod": 62,
+        "okreg": 2
       }
     },
     {
@@ -55873,8 +55873,8 @@
       "id": "135",
       "type": "Feature",
       "properties": {
-        "obwod": "61",
-        "okreg": "II"
+        "obwod": 61,
+        "okreg": 2
       }
     },
     {
@@ -56012,8 +56012,8 @@
       "id": "136",
       "type": "Feature",
       "properties": {
-        "obwod": "19",
-        "okreg": "I"
+        "obwod": 19,
+        "okreg": 1
       }
     },
     {
@@ -56155,8 +56155,8 @@
       "id": "137",
       "type": "Feature",
       "properties": {
-        "obwod": "21",
-        "okreg": "I"
+        "obwod": 21,
+        "okreg": 1
       }
     },
     {
@@ -56438,8 +56438,8 @@
       "id": "138",
       "type": "Feature",
       "properties": {
-        "obwod": "64",
-        "okreg": "II"
+        "obwod": 64,
+        "okreg": 2
       }
     },
     {
@@ -56649,8 +56649,8 @@
       "id": "139",
       "type": "Feature",
       "properties": {
-        "obwod": "63",
-        "okreg": "II"
+        "obwod": 63,
+        "okreg": 2
       }
     },
     {
@@ -56812,8 +56812,8 @@
       "id": "144",
       "type": "Feature",
       "properties": {
-        "obwod": "37",
-        "okreg": "I"
+        "obwod": 37,
+        "okreg": 1
       }
     },
     {
@@ -56907,8 +56907,8 @@
       "id": "145",
       "type": "Feature",
       "properties": {
-        "obwod": "32",
-        "okreg": "I"
+        "obwod": 32,
+        "okreg": 1
       }
     },
     {
@@ -56974,8 +56974,8 @@
       "id": "146",
       "type": "Feature",
       "properties": {
-        "obwod": "33",
-        "okreg": "I"
+        "obwod": 33,
+        "okreg": 1
       }
     },
     {
@@ -57021,8 +57021,8 @@
       "id": "147",
       "type": "Feature",
       "properties": {
-        "obwod": "34",
-        "okreg": "I"
+        "obwod": 34,
+        "okreg": 1
       }
     },
     {
@@ -57120,8 +57120,8 @@
       "id": "148",
       "type": "Feature",
       "properties": {
-        "obwod": "8",
-        "okreg": "I"
+        "obwod": 8,
+        "okreg": 1
       }
     },
     {
@@ -57267,8 +57267,8 @@
       "id": "149",
       "type": "Feature",
       "properties": {
-        "obwod": "75",
-        "okreg": "III"
+        "obwod": 75,
+        "okreg": 3
       }
     },
     {
@@ -57522,8 +57522,8 @@
       "id": "155",
       "type": "Feature",
       "properties": {
-        "obwod": "211",
-        "okreg": "VI"
+        "obwod": 211,
+        "okreg": 6
       }
     },
     {
@@ -57693,8 +57693,8 @@
       "id": "156",
       "type": "Feature",
       "properties": {
-        "obwod": "201",
-        "okreg": "VI"
+        "obwod": 201,
+        "okreg": 6
       }
     },
     {
@@ -57876,8 +57876,8 @@
       "id": "157",
       "type": "Feature",
       "properties": {
-        "obwod": "212",
-        "okreg": "VI"
+        "obwod": 212,
+        "okreg": 6
       }
     },
     {
@@ -58035,8 +58035,8 @@
       "id": "158",
       "type": "Feature",
       "properties": {
-        "obwod": "198",
-        "okreg": "VI"
+        "obwod": 198,
+        "okreg": 6
       }
     },
     {
@@ -59686,8 +59686,8 @@
       "id": "153",
       "type": "Feature",
       "properties": {
-        "obwod": "189",
-        "okreg": "VI"
+        "obwod": 189,
+        "okreg": 6
       }
     },
     {
@@ -59977,8 +59977,8 @@
       "id": "154",
       "type": "Feature",
       "properties": {
-        "obwod": "209",
-        "okreg": "VI"
+        "obwod": 209,
+        "okreg": 6
       }
     },
     {
@@ -60460,8 +60460,8 @@
       "id": "159",
       "type": "Feature",
       "properties": {
-        "obwod": "180",
-        "okreg": "V"
+        "obwod": 180,
+        "okreg": 5
       }
     },
     {
@@ -60675,8 +60675,8 @@
       "id": "160",
       "type": "Feature",
       "properties": {
-        "obwod": "164",
-        "okreg": "V"
+        "obwod": 164,
+        "okreg": 5
       }
     },
     {
@@ -60810,8 +60810,8 @@
       "id": "161",
       "type": "Feature",
       "properties": {
-        "obwod": "157",
-        "okreg": "V"
+        "obwod": 157,
+        "okreg": 5
       }
     },
     {
@@ -60945,8 +60945,8 @@
       "id": "165",
       "type": "Feature",
       "properties": {
-        "obwod": "115",
-        "okreg": "IV"
+        "obwod": 115,
+        "okreg": 4
       }
     },
     {
@@ -61056,8 +61056,8 @@
       "id": "166",
       "type": "Feature",
       "properties": {
-        "obwod": "100",
-        "okreg": "III"
+        "obwod": 100,
+        "okreg": 3
       }
     },
     {
@@ -61295,8 +61295,8 @@
       "id": "167",
       "type": "Feature",
       "properties": {
-        "obwod": "84",
-        "okreg": "III"
+        "obwod": 84,
+        "okreg": 3
       }
     },
     {
@@ -61478,8 +61478,8 @@
       "id": "172",
       "type": "Feature",
       "properties": {
-        "obwod": "41",
-        "okreg": "II"
+        "obwod": 41,
+        "okreg": 2
       }
     },
     {
@@ -61653,8 +61653,8 @@
       "id": "173",
       "type": "Feature",
       "properties": {
-        "obwod": "27",
-        "okreg": "I"
+        "obwod": 27,
+        "okreg": 1
       }
     },
     {
@@ -62856,8 +62856,8 @@
       "id": "168",
       "type": "Feature",
       "properties": {
-        "obwod": "87",
-        "okreg": "III"
+        "obwod": 87,
+        "okreg": 3
       }
     },
     {
@@ -63011,8 +63011,8 @@
       "id": "174",
       "type": "Feature",
       "properties": {
-        "obwod": "20",
-        "okreg": "I"
+        "obwod": 20,
+        "okreg": 1
       }
     },
     {
@@ -63138,8 +63138,8 @@
       "id": "175",
       "type": "Feature",
       "properties": {
-        "obwod": "150",
-        "okreg": "V"
+        "obwod": 150,
+        "okreg": 5
       }
     },
     {
@@ -63345,8 +63345,8 @@
       "id": "176",
       "type": "Feature",
       "properties": {
-        "obwod": "149",
-        "okreg": "V"
+        "obwod": 149,
+        "okreg": 5
       }
     },
     {
@@ -63436,8 +63436,8 @@
       "id": "177",
       "type": "Feature",
       "properties": {
-        "obwod": "30",
-        "okreg": "I"
+        "obwod": 30,
+        "okreg": 1
       }
     },
     {
@@ -65295,8 +65295,8 @@
       "id": "171",
       "type": "Feature",
       "properties": {
-        "obwod": "43",
-        "okreg": "II"
+        "obwod": 43,
+        "okreg": 2
       }
     },
     {
@@ -65366,8 +65366,8 @@
       "id": "178",
       "type": "Feature",
       "properties": {
-        "obwod": "12",
-        "okreg": "I"
+        "obwod": 12,
+        "okreg": 1
       }
     },
     {
@@ -65669,8 +65669,8 @@
       "id": "181",
       "type": "Feature",
       "properties": {
-        "obwod": "39",
-        "okreg": "I"
+        "obwod": 39,
+        "okreg": 1
       }
     },
     {
@@ -65888,8 +65888,8 @@
       "id": "182",
       "type": "Feature",
       "properties": {
-        "obwod": "31",
-        "okreg": "I"
+        "obwod": 31,
+        "okreg": 1
       }
     },
     {
@@ -65999,8 +65999,8 @@
       "id": "183",
       "type": "Feature",
       "properties": {
-        "obwod": "22",
-        "okreg": "I"
+        "obwod": 22,
+        "okreg": 1
       }
     },
     {
@@ -66126,8 +66126,8 @@
       "id": "184",
       "type": "Feature",
       "properties": {
-        "obwod": "24",
-        "okreg": "I"
+        "obwod": 24,
+        "okreg": 1
       }
     },
     {
@@ -66229,8 +66229,8 @@
       "id": "185",
       "type": "Feature",
       "properties": {
-        "obwod": "26",
-        "okreg": "I"
+        "obwod": 26,
+        "okreg": 1
       }
     },
     {
@@ -66456,8 +66456,8 @@
       "id": "186",
       "type": "Feature",
       "properties": {
-        "obwod": "144",
-        "okreg": "IV"
+        "obwod": 144,
+        "okreg": 4
       }
     },
     {
@@ -66635,8 +66635,8 @@
       "id": "187",
       "type": "Feature",
       "properties": {
-        "obwod": "136",
-        "okreg": "IV"
+        "obwod": 136,
+        "okreg": 4
       }
     },
     {
@@ -66802,8 +66802,8 @@
       "id": "196",
       "type": "Feature",
       "properties": {
-        "obwod": "121",
-        "okreg": "IV"
+        "obwod": 121,
+        "okreg": 4
       }
     },
     {
@@ -67261,8 +67261,8 @@
       "id": "188",
       "type": "Feature",
       "properties": {
-        "obwod": "13",
-        "okreg": "I"
+        "obwod": 13,
+        "okreg": 1
       }
     },
     {
@@ -67420,8 +67420,8 @@
       "id": "189",
       "type": "Feature",
       "properties": {
-        "obwod": "159",
-        "okreg": "V"
+        "obwod": 159,
+        "okreg": 5
       }
     },
     {
@@ -67847,8 +67847,8 @@
       "id": "191",
       "type": "Feature",
       "properties": {
-        "obwod": "139",
-        "okreg": "IV"
+        "obwod": 139,
+        "okreg": 4
       }
     },
     {
@@ -68066,8 +68066,8 @@
       "id": "192",
       "type": "Feature",
       "properties": {
-        "obwod": "137",
-        "okreg": "IV"
+        "obwod": 137,
+        "okreg": 4
       }
     },
     {
@@ -68237,8 +68237,8 @@
       "id": "193",
       "type": "Feature",
       "properties": {
-        "obwod": "118",
-        "okreg": "IV"
+        "obwod": 118,
+        "okreg": 4
       }
     },
     {
@@ -68396,8 +68396,8 @@
       "id": "194",
       "type": "Feature",
       "properties": {
-        "obwod": "117",
-        "okreg": "IV"
+        "obwod": 117,
+        "okreg": 4
       }
     },
     {
@@ -68583,8 +68583,8 @@
       "id": "198",
       "type": "Feature",
       "properties": {
-        "obwod": "124",
-        "okreg": "IV"
+        "obwod": 124,
+        "okreg": 4
       }
     },
     {
@@ -68786,8 +68786,8 @@
       "id": "199",
       "type": "Feature",
       "properties": {
-        "obwod": "132",
-        "okreg": "IV"
+        "obwod": 132,
+        "okreg": 4
       }
     },
     {
@@ -69077,8 +69077,8 @@
       "id": "200",
       "type": "Feature",
       "properties": {
-        "obwod": "123",
-        "okreg": "IV"
+        "obwod": 123,
+        "okreg": 4
       }
     },
     {
@@ -69240,8 +69240,8 @@
       "id": "201",
       "type": "Feature",
       "properties": {
-        "obwod": "145",
-        "okreg": "IV"
+        "obwod": 145,
+        "okreg": 4
       }
     },
     {
@@ -69323,8 +69323,8 @@
       "id": "202",
       "type": "Feature",
       "properties": {
-        "obwod": "38",
-        "okreg": "I"
+        "obwod": 38,
+        "okreg": 1
       }
     },
     {
@@ -69562,8 +69562,8 @@
       "id": "203",
       "type": "Feature",
       "properties": {
-        "obwod": "138",
-        "okreg": "IV"
+        "obwod": 138,
+        "okreg": 4
       }
     },
     {
@@ -69809,8 +69809,8 @@
       "id": "207",
       "type": "Feature",
       "properties": {
-        "obwod": "141",
-        "okreg": "IV"
+        "obwod": 141,
+        "okreg": 4
       }
     },
     {
@@ -69988,8 +69988,8 @@
       "id": "209",
       "type": "Feature",
       "properties": {
-        "obwod": "78",
-        "okreg": "III"
+        "obwod": 78,
+        "okreg": 3
       }
     },
     {
@@ -71847,8 +71847,8 @@
       "id": "211",
       "type": "Feature",
       "properties": {
-        "obwod": "223",
-        "okreg": "VI"
+        "obwod": 223,
+        "okreg": 6
       }
     },
     {
@@ -73530,8 +73530,8 @@
       "id": "212",
       "type": "Feature",
       "properties": {
-        "obwod": "186",
-        "okreg": "VI"
+        "obwod": 186,
+        "okreg": 6
       }
     },
     {
@@ -73657,8 +73657,8 @@
       "id": "214",
       "type": "Feature",
       "properties": {
-        "obwod": "207",
-        "okreg": "VI"
+        "obwod": 207,
+        "okreg": 6
       }
     },
     {
@@ -75112,8 +75112,8 @@
       "id": "220",
       "type": "Feature",
       "properties": {
-        "obwod": "185",
-        "okreg": "V"
+        "obwod": 185,
+        "okreg": 5
       }
     },
     {
@@ -76663,8 +76663,8 @@
       "id": "221",
       "type": "Feature",
       "properties": {
-        "obwod": "130",
-        "okreg": "IV"
+        "obwod": 130,
+        "okreg": 4
       }
     },
     {
@@ -76866,8 +76866,8 @@
       "id": "222",
       "type": "Feature",
       "properties": {
-        "obwod": "120",
-        "okreg": "IV"
+        "obwod": 120,
+        "okreg": 4
       }
     },
     {
@@ -77029,356 +77029,356 @@
       "id": "223",
       "type": "Feature",
       "properties": {
-        "obwod": "97",
-        "okreg": "III"
+        "obwod": 97,
+        "okreg": 3
       }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.919082, 52.390237]
+            "type": "Polygon",
+            "coordinates": [[ [16.9190, 52.3900], [16.9190, 52.3905], [16.9199, 52.3905], [16.9199, 52.3900] ]]
         },
         "id": "224",
         "properties": {
-            "obwod": "224",
-            "okreg": "I"
+            "obwod": 224,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.919083, 52.390236]
+            "type": "Polygon",
+            "coordinates": [[ [16.9190, 52.3900], [16.9190, 52.3905], [16.9199, 52.3905], [16.9199, 52.3900] ]]
         },
         "id": "225",
         "properties": {
-            "obwod": "225",
-            "okreg": "I"
+            "obwod": 225,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.921944, 52.398895]
+            "type": "Polygon",
+            "coordinates": [[ [16.9210, 52.3980], [16.9210, 52.3985], [16.9219, 52.3985], [16.9219, 52.3980] ]]
         },
         "id": "226",
         "properties": {
-            "obwod": "226",
-            "okreg": "I"
+            "obwod": 226,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.888947, 52.389951]
+            "type": "Polygon",
+            "coordinates": [[ [16.8880, 52.3890], [16.8880, 52.3895], [16.8889, 52.3895], [16.8889, 52.3890] ]]
         },
         "id": "227",
         "properties": {
-            "obwod": "227",
-            "okreg": "I"
+            "obwod": 227,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.902318, 52.405431]
+            "type": "Polygon",
+            "coordinates": [[ [16.9020, 52.4050], [16.9020, 52.4055], [16.9029, 52.4055], [16.9029, 52.4050] ]]
         },
         "id": "228",
         "properties": {
-            "obwod": "228",
-            "okreg": "I"
+            "obwod": 228,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.901579, 52.405688]
+            "type": "Polygon",
+            "coordinates": [[ [16.9010, 52.4050], [16.9010, 52.4055], [16.9019, 52.4055], [16.9019, 52.4050] ]]
         },
         "id": "229",
         "properties": {
-            "obwod": "229",
-            "okreg": "I"
+            "obwod": 229,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.895681, 52.409637]
+            "type": "Polygon",
+            "coordinates": [[ [16.8950, 52.4090], [16.8950, 52.4095], [16.8959, 52.4095], [16.8959, 52.4090] ]]
         },
         "id": "230",
         "properties": {
-            "obwod": "230",
-            "okreg": "I"
+            "obwod": 230,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.912885, 52.413472]
+            "type": "Polygon",
+            "coordinates": [[ [16.9120, 52.4130], [16.9120, 52.4135], [16.9129, 52.4135], [16.9129, 52.4130] ]]
         },
         "id": "231",
         "properties": {
-            "obwod": "231",
-            "okreg": "I"
+            "obwod": 231,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.898128, 52.408462]
+            "type": "Polygon",
+            "coordinates": [[ [16.8980, 52.4080], [16.8980, 52.4085], [16.8989, 52.4085], [16.8989, 52.4080] ]]
         },
         "id": "232",
         "properties": {
-            "obwod": "232",
-            "okreg": "I"
+            "obwod": 232,
+            "okreg": 1
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.951118, 52.426430]
+            "type": "Polygon",
+            "coordinates": [[ [16.9510, 52.4260], [16.9510, 52.4265], [16.9519, 52.4265], [16.9519, 52.4260] ]]
         },
         "id": "233",
         "properties": {
-            "obwod": "233",
-            "okreg": "II"
+            "obwod": 233,
+            "okreg": 2
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.908243, 52.440393]
+            "type": "Polygon",
+            "coordinates": [[ [16.9080, 52.4400], [16.9080, 52.4405], [16.9089, 52.4405], [16.9089, 52.4400] ]]
         },
         "id": "234",
         "properties": {
-            "obwod": "234",
-            "okreg": "II"
+            "obwod": 234,
+            "okreg": 2
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.904884, 52.436581]
+            "type": "Polygon",
+            "coordinates": [[ [16.9040, 52.4360], [16.9040, 52.4365], [16.9049, 52.4365], [16.9049, 52.4360] ]]
         },
         "id": "235",
         "properties": {
-            "obwod": "235",
-            "okreg": "II"
+            "obwod": 235,
+            "okreg": 2
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.935599, 52.403645]
+            "type": "Polygon",
+            "coordinates": [[ [16.9350, 52.4030], [16.9350, 52.4035], [16.9359, 52.4035], [16.9359, 52.4030] ]]
         },
         "id": "236",
         "properties": {
-            "obwod": "236",
-            "okreg": "III"
+            "obwod": 236,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.935997, 52.402180]
+            "type": "Polygon",
+            "coordinates": [[ [16.9350, 52.4020], [16.9350, 52.4025], [16.9359, 52.4025], [16.9359, 52.4020] ]]
         },
         "id": "237",
         "properties": {
-            "obwod": "237",
-            "okreg": "III"
+            "obwod": 237,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.927820, 52.411552]
+            "type": "Polygon",
+            "coordinates": [[ [16.9270, 52.4110], [16.9270, 52.4115], [16.9279, 52.4115], [16.9279, 52.4110] ]]
         },
         "id": "238",
         "properties": {
-            "obwod": "238",
-            "okreg": "III"
+            "obwod": 238,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.959475, 52.410232]
+            "type": "Polygon",
+            "coordinates": [[ [16.9590, 52.4100], [16.9590, 52.4105], [16.9599, 52.4105], [16.9599, 52.4100] ]]
         },
         "id": "239",
         "properties": {
-            "obwod": "239",
-            "okreg": "III"
+            "obwod": 239,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.993504, 52.412248]
+            "type": "Polygon",
+            "coordinates": [[ [16.9930, 52.4120], [16.9930, 52.4125], [16.9939, 52.4125], [16.9939, 52.4120] ]]
         },
         "id": "240",
         "properties": {
-            "obwod": "240",
-            "okreg": "III"
+            "obwod": 240,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.999766, 52.381903]
+            "type": "Polygon",
+            "coordinates": [[ [16.9990, 52.3810], [16.9990, 52.3815], [16.9999, 52.3815], [16.9999, 52.3810] ]]
         },
         "id": "241",
         "properties": {
-            "obwod": "241",
-            "okreg": "III"
+            "obwod": 241,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.983662, 52.406428]
+            "type": "Polygon",
+            "coordinates": [[ [16.9830, 52.4060], [16.9830, 52.4065], [16.9839, 52.4065], [16.9839, 52.4060] ]]
         },
         "id": "242",
         "properties": {
-            "obwod": "242",
-            "okreg": "III"
+            "obwod": 242,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.987820, 52.391070]
+            "type": "Polygon",
+            "coordinates": [[ [16.9870, 52.3910], [16.9870, 52.3915], [16.9879, 52.3915], [16.9879, 52.3910] ]]
         },
         "id": "243",
         "properties": {
-            "obwod": "243",
-            "okreg": "III"
+            "obwod": 243,
+            "okreg": 3
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.982273, 52.365725]
+            "type": "Polygon",
+            "coordinates": [[ [16.9820, 52.3650], [16.9820, 52.3655], [16.9829, 52.3655], [16.9829, 52.3650] ]]
         },
         "id": "244",
         "properties": {
-            "obwod": "244",
-            "okreg": "IV"
+            "obwod": 244,
+            "okreg": 4
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.940262, 52.382700]
+            "type": "Polygon",
+            "coordinates": [[ [16.9400, 52.3820], [16.9400, 52.3825], [16.9409, 52.3825], [16.9409, 52.3820] ]]
         },
         "id": "245",
         "properties": {
-            "obwod": "245",
-            "okreg": "IV"
+            "obwod": 245,
+            "okreg": 4
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.880795, 52.413351]
+            "type": "Polygon",
+            "coordinates": [[ [16.8800, 52.4130], [16.8800, 52.4135], [16.8809, 52.4135], [16.8809, 52.4130] ]]
         },
         "id": "246",
         "properties": {
-            "obwod": "246",
-            "okreg": "V"
+            "obwod": 246,
+            "okreg": 5
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.887556, 52.412048]
+            "type": "Polygon",
+            "coordinates": [[ [16.8870, 52.4120], [16.8870, 52.4125], [16.8879, 52.4125], [16.8879, 52.4120] ]]
         },
         "id": "247",
         "properties": {
-            "obwod": "247",
-            "okreg": "V"
+            "obwod": 247,
+            "okreg": 5
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.878365, 52.412064]
+            "type": "Polygon",
+            "coordinates": [[ [16.8780, 52.4120], [16.8780, 52.4125], [16.8789, 52.4125], [16.8789, 52.4120] ]]
         },
         "id": "248",
         "properties": {
-            "obwod": "248",
-            "okreg": "V"
+            "obwod": 248,
+            "okreg": 5
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.888516, 52.404139]
+            "type": "Polygon",
+            "coordinates": [[ [16.8880, 52.4040], [16.8880, 52.4045], [16.8889, 52.4045], [16.8889, 52.4040] ]]
         },
         "id": "249",
         "properties": {
-            "obwod": "249",
-            "okreg": "V"
+            "obwod": 249,
+            "okreg": 5
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.885615, 52.384924]
+            "type": "Polygon",
+            "coordinates": [[ [16.8850, 52.3840], [16.8850, 52.3845], [16.8859, 52.3845], [16.8859, 52.3840] ]]
         },
         "id": "250",
         "properties": {
-            "obwod": "250",
-            "okreg": "V"
+            "obwod": 250,
+            "okreg": 5
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.836424, 52.375875]
+            "type": "Polygon",
+            "coordinates": [[ [16.8360, 52.3750], [16.8360, 52.3755], [16.8369, 52.3755], [16.8369, 52.3750] ]]
         },
         "id": "251",
         "properties": {
-            "obwod": "251",
-            "okreg": "V"
+            "obwod": 251,
+            "okreg": 5
         }
     },
     {
         "type": "Feature",
         "geometry": {
-            "type": "Point",
-            "coordinates": [16.794449, 52.464530]
+            "type": "Polygon",
+            "coordinates": [[ [16.7940, 52.4640], [16.7940, 52.4645], [16.7949, 52.4645], [16.7949, 52.4640] ]]
         },
         "id": "252",
         "properties": {
-            "obwod": "252",
-            "okreg": "VI"
+            "obwod": 252,
+            "okreg": 6
         }
     }
   ],

@@ -14,11 +14,11 @@ csv_obwody_writer     = csv.writer(csv_obwody,     delimiter=',', quotechar='"',
 csv_prezydenci_writer = csv.writer(csv_prezydenci, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 csv_radni_writer      = csv.writer(csv_radni,      delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
-csv_obwody_writer.writerow(['Nr obwodu', 'Nazwa', 'Siedziba', 'Typ', 'Granice', 'Liczba mieszkańców', 'Liczba wyborców',
+csv_obwody_writer.writerow(['Nr okręgu', 'Nr obwodu', 'Nazwa', 'Siedziba', 'Typ', 'Granice', 'Liczba mieszkańców', 'Liczba wyborców',
                             'PR - liczba wyborców', 'PR - liczba kart w urnie', 'RM - liczba wyborców',
                             'RM - liczba kart w urnie'])
-csv_prezydenci_writer.writerow(['Nr obwodu', 'Kandydat', 'Liczba głosów'])
-csv_radni_writer.writerow(['Nr obwodu', 'Komitet wyborczy', 'Kandydat', 'Liczba głosów'])
+csv_prezydenci_writer.writerow(['Nr okręgu', 'Nr obwodu', 'Kandydat', 'Liczba głosów'])
+csv_radni_writer.writerow(['Nr okręgu', 'Nr obwodu', 'Komitet wyborczy', 'Kandydat', 'Liczba głosów'])
 
 files = [f for f in os.listdir(DIR) if os.path.isfile(os.path.join(DIR, f))]
 files.sort(key=int)
@@ -33,7 +33,7 @@ for file_name in files:
     okw_t = s.find('table', class_='stat_table')
     okw_t_tds = okw_t.find_all('td')
 
-    okw_numer               = int(file_name)
+    okw_obwod               = int(file_name)
     okw_nazwa, okw_siedziba = okw_t_tds[1].text.split(', ')
     okw_typ                 = okw_t_tds[3].text
     okw_granice             = okw_t_tds[7].text
@@ -49,6 +49,9 @@ for file_name in files:
                                                      text=re.compile('Wybory Rady Miasta'))['class'][0]
                                               ).group()
 
+    okw_okreg = int(re.compile('\d+').search(s.find('li', class_=re.compile('tab_button_protocol_'),
+                                                    text=re.compile('Wybory Rady Miasta')).text).group())
+
     # Prezydent
 
     p_pr = s.find('div', class_='tab_box_protocol_' + protokol_pr_id)
@@ -63,7 +66,7 @@ for file_name in files:
         pr_kandydat_nazwisko = str(row_tds[1].contents[0].contents[1])
         pr_kandydat_wynik    = int(str(row_tds[5].contents[1]).replace(' ', ''))
 
-        csv_prezydenci_writer.writerow([okw_numer, pr_kandydat_nazwisko, pr_kandydat_wynik])
+        csv_prezydenci_writer.writerow([okw_okreg, okw_obwod, pr_kandydat_nazwisko, pr_kandydat_wynik])
 
     # Rada Miasta
 
@@ -75,7 +78,7 @@ for file_name in files:
     rm_liczba_kart_w_urnie = int(tmp[50].text)
 
     csv_obwody_writer.writerow(
-        [okw_numer, okw_nazwa, okw_siedziba, okw_typ, okw_granice, okw_liczba_mieszkancow, okw_liczba_wyborcow,
+        [okw_okreg, okw_obwod, okw_nazwa, okw_siedziba, okw_typ, okw_granice, okw_liczba_mieszkancow, okw_liczba_wyborcow,
          pr_liczba_wyborcow, pr_liczba_kart_w_urnie, rm_liczba_wyborcow, rm_liczba_kart_w_urnie])
 
     rm_komitety_nazwy = [kom.text.strip().split(' - ')[1] for kom in p_rm.find_all('header', class_='stat_header')]
@@ -88,7 +91,7 @@ for file_name in files:
             rm_kandydat_nazwisko = str(row_tds[1].contents[0].contents[1])
             rm_kandydat_wynik    = int(str(row_tds[5].contents[1]).replace(' ', ''))
 
-            csv_radni_writer.writerow([okw_numer, rm_kandydat_komitet, rm_kandydat_nazwisko, rm_kandydat_wynik])
+            csv_radni_writer.writerow([okw_okreg, okw_obwod, rm_kandydat_komitet, rm_kandydat_nazwisko, rm_kandydat_wynik])
 
 csv_obwody.close()
 csv_prezydenci.close()

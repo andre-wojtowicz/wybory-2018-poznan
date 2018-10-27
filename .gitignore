@@ -1,2 +1,4 @@
 wyniki/strony/*
 wyniki/.idea
+*.twbr
+debug.log
